@@ -9,5 +9,4 @@ license_text:
 categories:
   - Εργαλεία και Τεχνικές 
 tags:
-  - 
 ---
