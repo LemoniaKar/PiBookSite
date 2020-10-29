@@ -8,5 +8,4 @@ license_url: 'https://commons.wikimedia.org/wiki/File:Ветеринарные_�
 categories:
   - Αρχέτυπα 
 tags:
-  -  
 ---
