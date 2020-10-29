@@ -1,7 +1,7 @@
 ---
 author: LemoniaKar
 title: "Imersive Learning Environments"
-image_url: /images/VR-learning
+image_url: images/Zona_VR_Learning.jpg
 caption: "............................."
 categories:
   - Μελέτη Περίπτωσης
@@ -9,7 +9,7 @@ categories:
 tags:
   - affective usability
 gallery:
-  - image_url: /images/VR-learning
+  - image_url: images/Zona_VR_Learning.jpg
     caption: "Καθηλωτικά Μαθησιακά Περιβάλλοντα (Immersive Learning Environments) είναι η μαθησιακή διαδικασία, η οποία περικλείει ποικιλία τεχνικών και εργαλείων λογισμικού, όπως για παράδειγμα μάθηση βασισμένη σε διαδραστικά παιχνίδια, σε προσομοιώσεις που προσανατολίζονται σε διάφορους μαθησιακούς τομείς αλλά και σε εικονικά 3D περιβάλλοντα."
 ---
 
