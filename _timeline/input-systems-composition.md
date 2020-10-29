@@ -6,25 +6,19 @@ caption: Ο συνδυασμός πολλών και διαφορετικών σ
 events:
   - sage-lightgun
   - spacewar-players
+  - aspen-movie-map
   - sketchpad
-  - nls
-  - pdp11-tty-unix
+  - logo-robot
   - rand-tablet
-  - grail-flow
+  - sword-of-damocles
   - genesys
-  - xerox-alto
   - xerox-bravo
   - plato4
   - videoplace
-  - xerox-star-pc
-  - apple-macintosh-1984
+  - haptic-controller
   - mediaspace
-  - canon-cat
   - hypercard
-  - weiser-tab-pad-board
-  - www
+  - laparoskopisi
   - digital-desk
-  - windows95
-  - lifestreams
 ---
 
