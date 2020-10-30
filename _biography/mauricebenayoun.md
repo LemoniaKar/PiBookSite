@@ -9,7 +9,6 @@ categories:
 tags:
   - VR
   - AR
- 
 ---
 
 {% include_relative maurice-benayoun.md %}
